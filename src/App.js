@@ -1,7 +1,8 @@
+import "./App.css"
 function App() {
   return (
     <div className="App">
-      working or not
+          <div className="inner">fadfklk</div>
     </div>
   );
 }
